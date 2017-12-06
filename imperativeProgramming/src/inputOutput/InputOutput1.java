@@ -16,3 +16,9 @@ public class InputOutput1 {
 	}
 
 }
+
+/*
+ * Output is 
+ * "Shumee, Imran, and Shumee"
+	"Imran, Shumee, and Shumee"
+ * */
